@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/myresources">
+        <file alias="add.svg">images/add.svg</file>
+        <file alias="blur.png">images/blur.png</file>
+        <file alias="dither.png">images/dither.png</file>
+        <file alias="fit_size.png">images/fit_size.png</file>
+        <file alias="flip.ico">images/flip.ico</file>
+        <file alias="flip_horizontal.png">images/flip_horizontal.png</file>
+        <file alias="inverted.png">images/inverted.png</file>
+        <file alias="opt_contrast.png">images/opt_contrast.png</file>
+        <file alias="rotate_left.svg">images/rotate_left.svg</file>
+        <file alias="rotate_right.svg">images/rotate_right.svg</file>
+        <file alias="save.png">images/save.png</file>
+        <file alias="threshold.png">images/threshold.png</file>
+        <file alias="undo.ico">images/undo.ico</file>
+        <file alias="zoom_in.svg">images/zoom_in.svg</file>
+        <file alias="zoom_out.svg">images/zoom_out.svg</file>
+    </qresource>
+</RCC>

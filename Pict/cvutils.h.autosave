@@ -1,0 +1,10 @@
+#ifndef CVUTILS_H
+#define CVUTILS_H
+
+#include <opencv2/opencv.hpp>
+
+using namespace cv;
+
+
+
+#endif // CVUTILS_H
